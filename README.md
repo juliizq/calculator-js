@@ -1,4 +1,4 @@
-# Quote generator
+# Calculator
 
 ## Welcome! 👋
 
